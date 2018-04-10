@@ -14,7 +14,7 @@
 <channel>
 <name>SERIES</name>
 <thumbnail>http://www.adirferreira.com.br/wp-content/uploads/2015/09/TV-Series.png</thumbnail>
-<externallink>https://cld.pt/dl/download/19481d5b-0b4d-4cdd-a176-7bd29fa1ce07/series.xml</externallink>
+<externallink>https://raw.githubusercontent.com/TvSolution/TvSolution/master/Clientes/TvSolution/Series.xml</externallink>
 <fanart>https://goo.gl/PqnHX7</fanart>
 <info>SÉRIES</info>
 </channel>
