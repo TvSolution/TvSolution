@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+</channels>
+
+
+<channel>
+<name>[B][COLOR white]LANÇAMENTOS[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/XXCb8cf.png</thumbnail>
+<externallink>https://cld.pt/dl/download/bf604e27-b09c-405d-8b75-7eabca43ef91/FILMES.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]AÇÃO[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/GIdg0xC.png</thumbnail>
+<externallink>https://cld.pt/dl/download/d10daadc-3af7-4b45-a7e2-9da564fd4e98/A%C3%87%C3%83O.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]AVENTURA[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/VEr2bB4.png</thumbnail>
+<externallink>https://cld.pt/dl/download/ff859920-cecb-4afa-b7c3-8320b40878e8/AVENTURA.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]COMÉDIA[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/25cp29l.png</thumbnail>
+<externallink>https://cld.pt/dl/download/30132667-a7df-4275-8ca6-763c4e2ec3b2/COMEDIA.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]DRAMA[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/PH8nUyi.png</thumbnail>
+<externallink>https://cld.pt/dl/download/5300c21a-f097-49c1-8d4d-02ec680b4e65/DRAMA.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]FICÇÃO CIENTÍFICA[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/eL2L7UG.png</thumbnail>
+<externallink>https://cld.pt/dl/download/1336a4b2-2e01-4348-8b0b-8c2d42031a3d/FIC%C3%87%C3%83O%20CIENT%C3%8DFICA.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]INFANTIL[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/P2tbXpc.png</thumbnail>
+<externallink>https://cld.pt/dl/download/e914cc89-6d64-4dde-b5a4-72a50e25fcf0/INFANTIL.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]NACIONAIS[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/aOGcc92.png</thumbnail>
+<externallink>https://cld.pt/dl/download/b837ae33-86fa-43b9-bd6d-e738f4b9916d/NACIONAIS.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]ROMANCE[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/PGaMqum.png</thumbnail>
+<externallink>https://cld.pt/dl/download/86bbf112-7508-412d-9404-a4f3b507797b/ROMANCE.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SUSPENSE[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/dc3ApXA.png</thumbnail>
+<externallink>https://cld.pt/dl/download/b613ded1-689c-4f40-9ae9-da67a8f6d899/SUSPENSE.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]TERROR[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/QTIdFDe.png</thumbnail>
+<externallink>https://cld.pt/dl/download/7a701d96-c57c-4cd6-a9c9-9a17ce482a08/TERROR.xml/</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]xx[/COLOR][/B]</name>
+<thumbnail>xx</thumbnail>
+<externallink></externallink>
+</channel>
+
