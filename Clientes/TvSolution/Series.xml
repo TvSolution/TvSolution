@@ -46,14 +46,14 @@
 
 <channel>
 <name>[B][COLOR white]ABSENTIA[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series/absentia.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series%202/Absentia.png</thumbnail>
 <fanart>https://www.axn.pt/sites/pt.axn/files/ct_series_f_primary_image/abs_marquee_1600x900_0_0.jpg</fanart>
 <externallink>https://cld.pt/dl/download/64ada9ab-453e-4cbc-8f54-5abb99fd1912/absentia.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR white]AGENTES DA S.H.I.E.L.D.[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series/Marvel's%20Agents%20of%20Shield.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series%202/Agentes%20da%20Shield.png</thumbnail>
 <externallink>https://cld.pt/dl/download/4be397e7-cc5c-4cad-81d2-3f82c8121394/shield.xml/</externallink>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </channel>
@@ -61,21 +61,21 @@
 
 <channel>
 <name>[B][COLOR white]ALTERED CARBON[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series/altered_carbon_v1_by_vamps1-dbzpfsq.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series%202/Altered%20Carbon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series2/Altered%20Carbon/menu</externallink>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Altered%20Carbon/fanart.jpg</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR white]ARQUIVO X[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series/Arquivo%20X.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series%202/ArquivoX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/menu</externallink>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR white]ARROW[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/RH6eaZp.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series%202/Arrow.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arrow/menu</externallink>
 <fanart>http://wallpapersdsc.net/wp-content/uploads/2015/11/287.jpg</fanart>
 </channel>
