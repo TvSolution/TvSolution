@@ -6,7 +6,7 @@
 <channel>
 <name>FILMES</name>
 <thumbnail>http://images.comunidades.net/tim/timedownloands/filmes.png</thumbnail>
-<externallink>https://cld.pt/dl/download/4a334809-5586-4861-b358-63822374fc1a/GENEROS.xml</externallink>
+<externallink>https://github.com/TvSolution/TvSolution/blob/master/Clientes/Maiara/Filmes.xml</externallink>
 <fanart>http://i.imgur.com/KoOB7yJ.jpg</fanart>
 <info>FILMES DA MELHOR QUALIDADE</info>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
 <name>SERIES</name>
 <thumbnail>http://www.adirferreira.com.br/wp-content/uploads/2015/09/TV-Series.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/TvSolution/TvSolution/master/Clientes/TvSolution/Series.xml</externallink>
+<externallink>https://github.com/TvSolution/TvSolution/blob/master/Clientes/Maiara/Series.xml</externallink>
 <fanart>https://goo.gl/PqnHX7</fanart>
 <info>SÉRIES</info>
 </channel>
