@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+<channels>
+
+<channel>
+<name>FILMES</name>
+<thumbnail>http://images.comunidades.net/tim/timedownloands/filmes.png</thumbnail>
+<externallink>https://cld.pt/dl/download/4a334809-5586-4861-b358-63822374fc1a/GENEROS.xml</externallink>
+<fanart>http://i.imgur.com/KoOB7yJ.jpg</fanart>
+<info>FILMES DA MELHOR QUALIDADE</info>
+</channel>
+
+<channel>
+<name>SERIES</name>
+<thumbnail>http://www.adirferreira.com.br/wp-content/uploads/2015/09/TV-Series.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/TvSolution/TvSolution/master/Clientes/TvSolution/Series.xml</externallink>
+<fanart>https://goo.gl/PqnHX7</fanart>
+<info>SÉRIES</info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]DESENHOS[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/UugqXBY.png</thumbnail>
+<externallink>https://cld.pt/dl/download/2b329ead-a9ab-46f9-8630-6a348a24d2fe/DESENHOS.xml</externallink>
+<fanart>http://www.baltana.com/files/wallpapers-3/Smurfs-The-Lost-Village-Wallpaper-10490.jpg</fanart>
+<info>ÁREA DE DESENHOS</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]TUNEL DO TEMPO[/B][/COLOR]</name>
+<thumbnail>http://www.tuneldotempocampinas.com.br/imagens/logo.png</thumbnail>
+<externallink>https://cld.pt/dl/download/f868e14d-4cae-478e-a40f-b68b3fbe3e49/menu.xml</externallink>
+<fanart>https://http2.mlstatic.com/rm-dvd-filmes-classicos-e-antigos-escolha-o-seu-D_NQ_NP_365201-MLB20299822787_052015-F.jpg</fanart>
+<info>SÉRIES E FILMES ANTIGOS</info>
+</channel>
