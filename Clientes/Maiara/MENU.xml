@@ -4,7 +4,7 @@
 <channels>
 
 <channel>
-<name>FILMEeeS</name>
+<name>Filmes</name>
 <thumbnail>http://images.comunidades.net/tim/timedownloands/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/TvSolution/TvSolution/master/Clientes/Maiara/Filmes.xml</externallink>
 <fanart>http://i.imgur.com/KoOB7yJ.jpg</fanart>
@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-<name>SERIES</name>
+<name>Series</name>
 <thumbnail>http://www.adirferreira.com.br/wp-content/uploads/2015/09/TV-Series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/TvSolution/TvSolution/master/Clientes/Maiara/Series.xml</externallink>
 <fanart>https://goo.gl/PqnHX7</fanart>
