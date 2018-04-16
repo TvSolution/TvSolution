@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
-
+</channels>
 
 <channel>
 <name>[B][COLOR white]xx[/COLOR][/B]</name>
@@ -181,7 +181,7 @@
 
 <channel>
 <name>[B][COLOR white]DARK[/COLOR][/B]</name>
-<thumbnail>http://br.web.img1.acsta.net/r_640_600/b_1_d6d6d6/pictures/17/11/01/13/35/2780331.jpg</thumbnail>
+<thumbnail>https://static.omelete.uol.com.br/media/filer_public/25/42/254250a5-2626-46f0-b2bc-3112b4f07b75/darkposter.jpg</thumbnail>
 <fanart>http://falange.net/wp-content/uploads/2017/12/Dark-Netflix-espelhado.png</fanart>
 <externallink>https://cld.pt/dl/download/38098b07-3286-487b-8059-29a9b940146c/dark.xml</externallink>
 </channel>
@@ -258,7 +258,7 @@
 
 <channel>
 <name>[B][COLOR white]EXTINCT[/COLOR][/B]</name>
-<thumbnail>http://bancodeseries.com.br/images/posters/13189.jpg</thumbnail>
+<thumbnail>https://s25.postimg.org/6895pgq73/Extinct.Poster.jpg</thumbnail>
 <fanart>https://heavyeditorial.files.wordpress.com/2017/10/extinct-live-stream1.jpg</fanart>
 <externallink>https://cld.pt/dl/download/d8f930e7-d247-4f10-9a5c-f9ac18f2c551/extinct1.xml</externallink>
 </channel>
@@ -286,7 +286,7 @@
 
 <channel>
 <name>[B][COLOR white]GAME OF THRONES[/COLOR][/B]</name>
-<thumbnail>https://img.fstatic.com/qWcTd6tbLE-E4u9yma9ryXMx-1w=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/02/game-of-thrones-6a-temporada_t93260_ILxNPaL.jpg</thumbnail>
+<thumbnail>http://www.pagepulp.com/wp-content/gotseas1.jpg</thumbnail>
 <externallink>https://cld.pt/dl/download/2a1942f0-7ab2-4235-a672-e2d0161e8678/GAMEOFTHRONES.xml</externallink>
 <fanart>https://images5.alphacoders.com/637/637668.jpg</fanart>
 <info>Game of Thrones é uma série de televisão norte-americana criada por David Benioff e D. B. Weiss, e baseada na série de livros A Song of Ice and Fire, de George R. R. Martin.</info>
@@ -414,14 +414,14 @@
 
 <channel>
 <name>[B][COLOR white]MR. ROBOT[/COLOR][/B]</name>
-<thumbnail>http://aodisseia.com/wp-content/uploads/2016/02/Mr-Robot-Poster-mr-robot-tv-series-38811966-1047-1572.jpg</thumbnail>
+<thumbnail>https://static.omelete.uol.com.br/media/extras/conteudos/mrrobot_s2_keyart_press1.jpg</thumbnail>
 <fanart>http://media.showcase.ca/wp-content/uploads/2016/01/Showcase_1920x1080_MrRobot.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Mr.%20Robot/menu</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR white]NARCOS[/COLOR][/B]</name>
-<thumbnail>http://br.web.img1.acsta.net/r_640_600/b_1_d6d6d6/pictures/15/07/29/14/33/086520.jpg</thumbnail>
+<thumbnail>https://static.omelete.uol.com.br/media/extras/conteudos/Escobar.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/f8Q696JXa7Y/maxresdefault.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Narcos/menu</externallink>
 </channel>
@@ -771,5 +771,3 @@
 <fanart>https://images.alphacoders.com/793/thumb-1920-793049.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Z%20Nation/menu</externallink>
 </channel>
-  
-  </channels>
