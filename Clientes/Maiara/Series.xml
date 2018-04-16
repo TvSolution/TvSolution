@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
-</channels>
+
 
 <channel>
 <name>[B][COLOR white]xx[/COLOR][/B]</name>
@@ -771,3 +771,5 @@
 <fanart>https://images.alphacoders.com/793/thumb-1920-793049.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Z%20Nation/menu</externallink>
 </channel>
+  
+  </channels>
