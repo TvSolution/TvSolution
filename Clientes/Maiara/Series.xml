@@ -67,6 +67,13 @@
 </channel>
 
 <channel>
+<name>[B][COLOR white]AMERICAN HORROR STORY[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series%202/American%20Horror%20Story.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/vZhtZZ3qfIUVS6GeQTYhmBkq0nZ.jpg</fanart>
+<externallink>https://cld.pt/dl/download/609d1bd2-5e93-4341-a274-ef1d0ad434bf/americanhorror.xml/</externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR white]ARQUIVO X[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series%202/ArquivoX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/menu</externallink>
