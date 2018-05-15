@@ -173,6 +173,13 @@
 </channel>
 
 <channel>
+<name>[B][COLOR white]CRIMINAL MINDS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/TvSolution/tvsolution01/master/Logos/Thumbnail/Series%202/CriminalMinds.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5qEAEKKBFC7qcxKxVdVaRID0kkJ.jpg</fanart>
+<externallink>https://cld.pt/dl/download/f0c8c3c4-a73f-4f70-8a6b-febcca1ad43b/CriminalMinds.xml/</externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR white]DA VINCI'S DEMONS[/COLOR][/B]</name>
 <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/12038618/p12038618_b_v8_aa.jpg</thumbnail>
 <externallink>http://brazucaplay.forumbrasil.net/h70-</externallink>
