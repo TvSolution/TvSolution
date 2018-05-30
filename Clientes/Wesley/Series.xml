@@ -703,6 +703,13 @@
 </channel>
 
 <channel>
+<name>[B][COLOR white]The Rain (A Chuva)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGNfbDHjHN4zDZQlQiByPhU5oAr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rfK7BGBUoqXc2EiKGbKuzaeSDjW.jpg</fanart>
+<externallink>https://cld.pt/dl/download/a10da354-1c45-430b-bc26-654240318a46/TheRain.xml/</externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR white]THE STRAIN[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Strain/thumb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Strain/menu</externallink>
