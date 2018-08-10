@@ -1,5 +1,5 @@
 
-name="Build-TvSolution-Kodi17"
+name="TvSolution-Kodi17"
 url="https://www.dropbox.com/s/z5xlkce2zwyq2qx/Build-TvSolution-Kodi17.zip?dl=1"
 img="https://www.dropbox.com/s/l7psijuofb02wdz/TvSolutionICONE.png?dl=1"
 fanart="https://raw.githubusercontent.com/TvSolution/TvSolution/master/Build-TvSolution/TvSolution.jpg"
