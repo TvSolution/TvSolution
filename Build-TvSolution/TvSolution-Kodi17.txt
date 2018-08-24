@@ -1,11 +1,11 @@
 
-name="Build-TvSolution-Kodi16"
+name="Kodi16"
 url="https://www.dropbox.com/s/iljw0wk7fblvohy/Build-Kodi16.zip?dl=1"
 img="https://www.dropbox.com/s/l7psijuofb02wdz/TvSolutionICONE.png?dl=1"
 fanart="https://raw.githubusercontent.com/TvSolution/TvSolution/master/Build-TvSolution/TvSolution.jpg"
 description="Build TvSolution"
 
-name="Build-TvSolution-Kodi17"
+name="Kodi17"
 url="https://www.dropbox.com/s/gp05db33qoxxjqo/Build-Kodi17.zip?dl=1"
 img="https://www.dropbox.com/s/l7psijuofb02wdz/TvSolutionICONE.png?dl=1"
 fanart="https://raw.githubusercontent.com/TvSolution/TvSolution/master/Build-TvSolution/TvSolution.jpg"
